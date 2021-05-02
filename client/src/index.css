@@ -1,0 +1,10 @@
+.slider img , 
+.card-images
+{
+    height : 450px;
+    object-fit: cover;
+} 
+body {
+    background-color: black; 
+    font-family: Roboto, Helvetica, Arial, sans-serif; }
+
